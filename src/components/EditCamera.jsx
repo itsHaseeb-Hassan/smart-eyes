@@ -1,0 +1,77 @@
+import React from "react";
+import styled from "styled-components";
+import Buttons from "./Buttons";
+import InputForm from "./InputForm";
+
+const Div = styled.div`
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin: 1%;
+    margin-top: 3%;
+`;
+
+const DivContainer = styled.div`
+    width: 97%;
+    border: 1px solid ${(props) => props.theme.colors.borders};
+    color: ${(props) => props.theme.colors.text};
+    background: ${(props) => props.theme.colors.bgSecondary};
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin-right: 20px;
+
+    cursor: pointer;
+
+    .cameraName {
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+    }
+
+    .checkboxContainer {
+        display: flex;
+    }
+
+    .checkboxWrapper {
+        display: flex;
+        width: 30%;
+        align-items: center;
+    }
+`;
+
+const EditCamera = () => {
+    return (
+        <Div>
+            <DivContainer>
+                <div className="cameraName">
+                    <label> Name for the camera </label>
+                    <InputForm />
+                </div>
+                <div className="cameraName">
+                    <label> Camera Project </label>
+                    <InputForm />
+                </div>
+                <div className="cameraName">
+                    <label>Camera URL </label>
+                    <InputForm />
+
+                    <div className="checkboxContainer">
+                        <div className="checkboxWrapper">
+                            <InputForm type={"checkbox"} width={"10"} />
+                            <label> Online </label>
+                        </div>
+                        <div className="checkboxWrapper">
+                            <InputForm type={"checkbox"} width={"10"} />
+                            <label> Offline </label>
+                        </div>
+                    </div>
+                </div>
+            </DivContainer>
+
+            <Buttons name={"SAVE"} marginLeft={"0"}/>
+        </Div>
+    );
+};
+
+export default EditCamera;

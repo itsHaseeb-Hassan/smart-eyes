@@ -1,0 +1,354 @@
+{
+  "vedioUrl": [
+    {
+      "id": "0",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "1",
+      "Url": " https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+
+    {
+      "id": "2",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "3",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "4",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "5",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "6",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "7",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "8",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "9",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "10",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "11",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "12",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "13",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "14",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    },
+    {
+      "id": "15",
+      "Url": "https://youtu.be/mcMG6Nw62b8?list=RDmcMG6Nw62b8&t=12"
+    }
+  ],
+  "CameraData": [
+    {
+      "id": 1,
+      "title": "Cam",
+      "description": "Office"
+    },
+    {
+      "id": 2,
+      "title": "Corridor",
+      "description": "Office"
+    },
+    {
+      "id": 3,
+      "title": "Dining Room",
+      "description": "Home"
+    },
+    {
+      "id": 4,
+      "title": "Entrance",
+      "description": "Factory"
+    },
+    {
+      "id": 5,
+      "title": "Cam",
+      "description": "Office"
+    },
+    {
+      "id": 6,
+      "title": "Corridor",
+      "description": "Office"
+    },
+    {
+      "id": 7,
+      "title": "Dining Room",
+      "description": "Home"
+    },
+    {
+      "id": 8,
+      "title": "Entrance",
+      "description": "Factory"
+    }
+  ],
+  "SitesData": [
+    {
+      "id": 1,
+      "title": "Office",
+      "No_Of_Cameras": 20
+    },
+    {
+      "id": 2,
+      "title": "Home",
+      "No_Of_Cameras": 8
+    },
+    {
+      "id": 3,
+      "title": "Factory",
+      "No_Of_Cameras": 21
+    },
+    {
+      "id": 4,
+      "title": "Other",
+      "No_Of_Cameras": 20
+    },
+    {
+      "id": 5,
+      "title": "Office",
+      "No_Of_Cameras": 17
+    },
+    {
+      "id": 6,
+      "title": "Home",
+      "No_Of_Cameras": 24
+    },
+    {
+      "id": 7,
+      "title": "Factory",
+      "No_Of_Cameras": 30
+    },
+    {
+      "id": 8,
+      "title": "Other",
+      "No_Of_Cameras": 25
+    }
+  ],
+  "Subuser": [
+    {
+      "id": "0",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "1",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+
+    {
+      "id": "2",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "3",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "4",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "5",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "6",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "7",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "8",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "9",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "10",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "11",
+      "name": "haseeb hassan",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "12",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "13",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "14",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "15",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "16",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "17",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "18",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "19",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "20",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "21",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "22",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "23",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "24",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "25",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "26",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "27",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "28",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "29",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "30",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "31",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    },
+    {
+      "id": "32",
+      "name": "AwaisMughal",
+      "email": "AwaisMughal@gmail.com",
+      "Mobile_number": "03062345233"
+    }
+  ]
+}
